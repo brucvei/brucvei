@@ -1,9 +1,9 @@
-<h1 align="center">Oi 👋, sou a Bruna Caetano</h1>
+<h1 align="center">Oii 👋, sou a Bruna Caetano</h1>
 <h3 align="center">Estudante de Sistemas de informação - UFSM</h3>
 
-- ⚡ Sou **técnica em informática para internet**
+- ⚡ Sou **técnica em informática para internet** e **estagiária full stack**
 
-- 🌱 No momento estou estudando **Laravel, Vue, Python**
+- 🌱 No momento estou trabalhando com **Java e Angular**
 
 - 📫 Meu email de contato **bruna.caetanov@gmail.com**
 
